@@ -1,0 +1,8 @@
+
+name: Balcony coin
+description: An in-game token, mined in the game and withdrawn from the wallet.
+image: "https://i.ibb.co/vZWd53j/Balcony-coin.png"
+address: EQCqBUGSvfkzyQpogb6uyWKiwsb7cZZEnGxOXWrVvHpdUXI0
+symbol: BC
+websites:
+  - "https://t.me/BalconyMiningBot/bmining"
